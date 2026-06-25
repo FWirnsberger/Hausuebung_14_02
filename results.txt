@@ -3,3 +3,8 @@ Date of Test: 2026-06-25 13:51:49
 Bubble Sort Time: 5.895945 seconds
 Quick Sort Time: 0.013695 seconds
 
+Computer Name: LAPTOP-J0NAS
+Date of Test: 2026-06-25 14:02:32
+Bubble Sort Time: 8.983702 seconds
+Quick Sort Time: 0.018505 seconds
+
